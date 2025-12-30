@@ -57,7 +57,7 @@
 ## ➦DEPLOYMENT OPTIONS
 
 ### <h2 align="">1. HEROKU</h2>
- <a href='https://dashboard.heroku.com/new-app?template=https://github.com/MAFIAADEEL/MAFIA-MD' target="_blank">
+ <a href='https://dashboard.heroku.com/new-app?template=https://github.com/adeelsabqi11/MAFIA-AI-XMD' target="_blank">
     <img src='https://img.shields.io/badge/HEROKU-DEPLOY-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=green'/>
   </a></br>
   
