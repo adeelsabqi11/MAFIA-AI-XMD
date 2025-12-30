@@ -47,20 +47,12 @@
   
 --- 
 > **PAIRING LINK 1 🖇️**
-  <a href='https://adeelxmd-pair.onrender.com' target="_blank">
+  <a href='ENTER PAIR LINK BY MAFIA' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=red&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
---- 
-> **PAIRING LINK 🖇️ 2**
-  <a href='https://mafia-md-pair-web.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 50px;"></div>
-
 
 ## ➦DEPLOYMENT OPTIONS
 
