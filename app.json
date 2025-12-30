@@ -1,8 +1,8 @@
 {
-  "name": "MAFIA-MD",
-  "description": "Javascript WhatsApp bot made by MAFIA-MD",
+  "name": "MAFIA-AI-XMD",
+  "description": "Javascript WhatsApp bot made by MAFIA-AI-XMD",
   "logo": "https://files.catbox.moe/l8psgf.jpg",
-  "keywords": ["MAFIA-MD"],
+  "keywords": ["MAFIA-AI-XMD"],
   "success_url": "/",
 
     "stack": "container",
