@@ -47,7 +47,7 @@
   
 --- 
 > **PAIRING LINK 1 🖇️**
-  <a href='ENTER PAIR LINK BY MAFIA' target="_blank">
+  <a href='https://mysterious-bastion-72548-b6fc229d568e.herokuapp.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=red&labelColor=000000'/>
   </a></br>
   
