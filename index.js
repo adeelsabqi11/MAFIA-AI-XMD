@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['923266105873']
+  const ownerNumber = ['923131613251']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -68,7 +68,7 @@ const {
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
     if (config.SESSION_ID && config.SESSION_ID.trim() !== "") {
-        const sessdata = config.SESSION_ID.replace("FAIZAN-AI~", '');
+        const sessdata = config.SESSION_ID.replace("MAFIA-MD~", '');
         try {
             // Decode base64 string
             const decodedData = Buffer.from(sessdata, 'base64').toString('utf-8');
@@ -150,7 +150,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there FAIZAN-AI User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet FAIZAN-AI WhatsApp Bot.\n\n *Thanks for using FAIZAN-AI \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Faizan-MD-BOTZ/Faizan-Ai\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-AI ❣️ \ud83d\udda4`;
+  let up = `*Hello there MAFIA-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet MAFIA-MD WhatsApp Bot.\n\n *Thanks for using MAFIA-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/adeelsabqi11/MAFIA-AI-XMD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ ❣️ \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/ejufwa.jpg` }, caption: up })
   }
   })
@@ -238,7 +238,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split(`@`)[0]
-const qadeer = ['923266105873','923266105873'] 
+const qadeer = ['923348585489','923131613251'] 
 const dev = [] 
 
 let isCreator = [udp, ...qadeer, ...dev]
@@ -287,7 +287,7 @@ let isCreator = [udp, ...qadeer, ...dev]
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("FAIZAN-AI") && !isReact) {
+if (senderNumber.includes("MAFIA-MD") && !isReact) {
   const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
